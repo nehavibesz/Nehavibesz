@@ -20,15 +20,6 @@
 * VirtualBox
 * Git & GitHub
 
-## 🔭 Recent Project
-
-### Web Attack Simulation
-
-A hands-on cybersecurity lab demonstrating SQL Injection and Brute Force attack simulations using DVWA, Wireshark, and Burp Suite in a controlled environment.
-
-🔗 Repository:
-https://github.com/nehavibesz/Web-Attack-Simulation
-
 ## 📚 Interests
 
 * Ethical Hacking
