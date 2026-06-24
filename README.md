@@ -1,16 +1,41 @@
-## Hi there 👋
+# Hi there 👋, I'm Neha Jabbar
 
-<!--
-**nehavibesz/Nehavibesz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Cyber Security Student passionate about web security, network security, and ethical hacking.
 
-Here are some ideas to get you started:
+## 🌱 Currently Learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Web Application Security
+* Bug Bounty Hunting
+* Python for Cyber Security
+* Network Security Concepts
+* TryHackMe Labs
+
+## 🛠 Tools & Technologies
+
+* Kali Linux
+* Wireshark
+* Burp Suite
+* DVWA
+* Python
+* VirtualBox
+* Git & GitHub
+
+## 🔭 Recent Project
+
+### Web Attack Simulation
+
+A hands-on cybersecurity lab demonstrating SQL Injection and Brute Force attack simulations using DVWA, Wireshark, and Burp Suite in a controlled environment.
+
+🔗 Repository:
+https://github.com/nehavibesz/Web-Attack-Simulation
+
+## 📚 Interests
+
+* Ethical Hacking
+* Bug Bounty Hunting
+* Web Application Security
+* Network Traffic Analysis
+
+## ⚡Fun Fact
+
+I enjoy learning cybersecurity through hands-on labs and practical challenges.
